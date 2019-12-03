@@ -1,0 +1,30 @@
+[
+	{
+		"nama" : "Reza Pramita",
+		"umur" : 20,
+		"nrp" : "173040113",
+		"lulus" : true,
+		"hobby" : [
+			"coding",
+			"gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Doddyd Ferdiansyah",
+			"pembimbing2" : "Erik Doank"
+		}
+	},
+	{
+		"nama" : "Reza Pramita",
+		"umur" : 20,
+		"nrp" : "173040113",
+		"lulus" : true,
+		"hobby" : [
+			"coding",
+			"gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Doddyd Ferdiansyah",
+			"pembimbing2" : "Erik Doank"
+		}
+	}
+]
